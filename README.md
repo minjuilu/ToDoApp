@@ -58,11 +58,12 @@ Users can register, log in, and manage their personal tasks by creating, viewing
    ```
    git clone https://github.com/minjuilu/ToDoApp.git
    cd ToDoApp
+   ```
 
 2. Open the project in Xcode:
-```
-open ToDoApp.xcodeproj
-```
+   ```
+   open ToDoApp.xcodeproj
+   ```
 
 3. Add the GoogleService-Info.plist file to the project.
 
