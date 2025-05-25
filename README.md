@@ -25,6 +25,10 @@ Users can register, log in, and manage their personal tasks by creating, viewing
 ---
 
 ## Project First Look
+
+![2  Todo List View (1)](https://github.com/user-attachments/assets/3dd5991e-c398-4f0b-b39f-c629186d2578)
+
+
 ![2  Todo List View](https://github.com/user-attachments/assets/e513716f-f867-4c82-aaee-c67db44a20bf)
 
 
